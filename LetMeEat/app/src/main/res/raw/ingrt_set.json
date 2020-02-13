@@ -1,0 +1,4486 @@
+{
+  "product": [
+    {
+      "num": "0",
+      "name": "흑설탕",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "1",
+      "name": "부추",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "2",
+      "name": "초밥",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "3",
+      "name": "올리브오일",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "4",
+      "name": "불린쌀",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "5",
+      "name": "돛나물",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "6",
+      "name": "신김치",
+      "category1": "7",
+      "category2": "4"
+    },
+    {
+      "num": "7",
+      "name": "탄산수",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "8",
+      "name": "카레",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "9",
+      "name": "김치",
+      "category1": "7",
+      "category2": "4"
+    },
+    {
+      "num": "10",
+      "name": "이스트",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "11",
+      "name": "홍피망",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "12",
+      "name": "붉은 파프리카",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "13",
+      "name": "갓",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "14",
+      "name": "녹말물",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "15",
+      "name": "바게트",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "16",
+      "name": "골뱅이",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "17",
+      "name": "어묵",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "18",
+      "name": "대파",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "19",
+      "name": "표고",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "20",
+      "name": "새우살",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "21",
+      "name": "오징어채",
+      "category1": "4",
+      "category2": "4"
+    },
+    {
+      "num": "22",
+      "name": "치자",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "23",
+      "name": "고구마",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "24",
+      "name": "바질",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "25",
+      "name": "밤",
+      "category1": "9",
+      "category2": "1"
+    },
+    {
+      "num": "26",
+      "name": "풋콩",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "27",
+      "name": "날치알",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "28",
+      "name": "밥",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "29",
+      "name": "장어대리",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "30",
+      "name": "설탕",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "31",
+      "name": "정향",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "32",
+      "name": "쫄면",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "33",
+      "name": "배춧잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "34",
+      "name": "흰떡",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "35",
+      "name": "송어",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "36",
+      "name": "토마토케찹",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "37",
+      "name": "콘프레이크",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "38",
+      "name": "생굴",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "39",
+      "name": "배",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "40",
+      "name": "슬라이스햄",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "41",
+      "name": "간장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "42",
+      "name": "당근채",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "43",
+      "name": "동태",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "44",
+      "name": "육수용 물",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "45",
+      "name": "피망",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "46",
+      "name": "넛맥",
+      "category1": "9",
+      "category2": "1"
+    },
+    {
+      "num": "47",
+      "name": "육수용 무",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "48",
+      "name": "스파게티면",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "49",
+      "name": "닭다리",
+      "category1": "5",
+      "category2": "1"
+    },
+    {
+      "num": "50",
+      "name": "북어",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "51",
+      "name": "맛국물",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "52",
+      "name": "닭 육수",
+      "category1": "5",
+      "category2": "1"
+    },
+    {
+      "num": "53",
+      "name": "루콜라",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "54",
+      "name": "팽이버섯",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "55",
+      "name": "다진고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "56",
+      "name": "베이컨",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "57",
+      "name": "로즈마리",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "58",
+      "name": "아스파라거스",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "59",
+      "name": "파마산치즈",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "60",
+      "name": "화이트와인",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "61",
+      "name": "낙지",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "62",
+      "name": "가쯔오브시",
+      "category1": "4",
+      "category2": "4"
+    },
+    {
+      "num": "63",
+      "name": "쑥갓",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "64",
+      "name": "적당량의 물",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "65",
+      "name": "차이브",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "66",
+      "name": "다진쇠고기",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "67",
+      "name": "피시소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "68",
+      "name": "인삼",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "69",
+      "name": "파뿌리",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "70",
+      "name": "느타리버섯",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "71",
+      "name": "소꼬리",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "72",
+      "name": "두반장",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "73",
+      "name": "솔잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "74",
+      "name": "허니머스터드",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "75",
+      "name": "가는파",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "76",
+      "name": "불린 멥쌀",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "77",
+      "name": "쑥",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "78",
+      "name": "케일",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "79",
+      "name": "깻잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "80",
+      "name": "통생강",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "81",
+      "name": "실고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "82",
+      "name": "참치통조림",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "83",
+      "name": "무말랭이",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "84",
+      "name": "레드와인",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "85",
+      "name": "동치미국물",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "86",
+      "name": "파인애플",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "87",
+      "name": "볶은소금",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "88",
+      "name": "조",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "89",
+      "name": "양송이버섯",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "90",
+      "name": "적채",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "91",
+      "name": "순대",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "92",
+      "name": "닭육수",
+      "category1": "5",
+      "category2": "1"
+    },
+    {
+      "num": "93",
+      "name": "치커리",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "94",
+      "name": "청장",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "95",
+      "name": "미소",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "96",
+      "name": "가리비",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "97",
+      "name": "절인 배추",
+      "category1": "7",
+      "category2": "6"
+    },
+    {
+      "num": "98",
+      "name": "서리태콩",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "99",
+      "name": "불린 찹쌀",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "100",
+      "name": "껍질콩",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "101",
+      "name": "요리술",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "102",
+      "name": "찬물",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "103",
+      "name": "건새우가루",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "104",
+      "name": "새송이버섯",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "105",
+      "name": "옥수수통조림",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "106",
+      "name": "아보카도",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "107",
+      "name": "게",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "108",
+      "name": "일본된장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "109",
+      "name": "브로콜리",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "110",
+      "name": "크림치즈",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "111",
+      "name": "근대",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "112",
+      "name": "참기름",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "113",
+      "name": "왜된장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "114",
+      "name": "밀국수",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "115",
+      "name": "청어알",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "116",
+      "name": "삶은계란",
+      "category1": "3",
+      "category2": "1"
+    },
+    {
+      "num": "117",
+      "name": "플레인요구르트",
+      "category1": "2",
+      "category2": "1"
+    },
+    {
+      "num": "118",
+      "name": "고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "119",
+      "name": "오징어",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "120",
+      "name": "도미",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "121",
+      "name": "완두콩",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "122",
+      "name": "순두부",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "123",
+      "name": "홍합",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "124",
+      "name": "죽순",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "125",
+      "name": "고추기름",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "126",
+      "name": "피쉬소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "127",
+      "name": "아가용 치즈",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "128",
+      "name": "고구마줄기",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "129",
+      "name": "풋마늘",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "130",
+      "name": "실파",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "131",
+      "name": "아구",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "132",
+      "name": "아몬드가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "133",
+      "name": "후추, 식용유",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "134",
+      "name": "채썬쇠고기",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "135",
+      "name": "미니새송이버섯",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "136",
+      "name": "중새우",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "137",
+      "name": "어린잎채소",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "138",
+      "name": "홀토마토",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "139",
+      "name": "건블루베리",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "140",
+      "name": "채썬마늘",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "141",
+      "name": "선지",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "142",
+      "name": "양상추",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "143",
+      "name": "시럽",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "144",
+      "name": "꼬치",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "145",
+      "name": "빨강파프리카·노랑 파프리카·청피망",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "146",
+      "name": "통도라지",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "147",
+      "name": "레몬즙",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "148",
+      "name": "초고추장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "149",
+      "name": "깨소금",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "150",
+      "name": "애호박",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "151",
+      "name": "참빛고운포도씨유",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "152",
+      "name": "마요네즈",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "153",
+      "name": "생수",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "154",
+      "name": "동치미무",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "155",
+      "name": "호박",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "156",
+      "name": "새우젓",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "157",
+      "name": "참나물",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "158",
+      "name": "잣가루",
+      "category1": "9",
+      "category2": "1"
+    },
+    {
+      "num": "159",
+      "name": "갑오징어",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "160",
+      "name": "오렌지마멀레이드",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "161",
+      "name": "바나나",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "162",
+      "name": "멥쌀가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "163",
+      "name": "다시마 우린 물",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "164",
+      "name": "다진풋고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "165",
+      "name": "호박씨",
+      "category1": "9",
+      "category2": "1"
+    },
+    {
+      "num": "166",
+      "name": "김치잎",
+      "category1": "7",
+      "category2": "4"
+    },
+    {
+      "num": "167",
+      "name": "피조개",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "168",
+      "name": "오렌지마요네즈",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "169",
+      "name": "미림",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "170",
+      "name": "가쓰오브시",
+      "category1": "4",
+      "category2": "4"
+    },
+    {
+      "num": "171",
+      "name": "사라다나",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "172",
+      "name": "아가용치즈",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "173",
+      "name": "미나리",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "174",
+      "name": "마른새우",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "175",
+      "name": "흑임자",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "176",
+      "name": "흰설탕",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "177",
+      "name": "미역",
+      "category1": "4",
+      "category2": "3"
+    },
+    {
+      "num": "178",
+      "name": "비트",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "179",
+      "name": "아귀",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "180",
+      "name": "불린미역",
+      "category1": "4",
+      "category2": "3"
+    },
+    {
+      "num": "181",
+      "name": "옥수수",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "182",
+      "name": "파프리카",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "183",
+      "name": "닭안심",
+      "category1": "5",
+      "category2": "1"
+    },
+    {
+      "num": "184",
+      "name": "사워크림",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "185",
+      "name": "통후추",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "186",
+      "name": "상추",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "187",
+      "name": "국간장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "188",
+      "name": "쇠고기(힘줄없는부위)",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "189",
+      "name": "[비빔양념] 간장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "190",
+      "name": "피자치즈",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "191",
+      "name": "무즙",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "192",
+      "name": "아기된장소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "193",
+      "name": "적양배추",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "194",
+      "name": "[쇠고기육수] 쇠뼈",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "195",
+      "name": "정수물 또는 닭육수",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "196",
+      "name": "홍고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "197",
+      "name": "빵가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "198",
+      "name": "메밀국수",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "199",
+      "name": "우거지",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "200",
+      "name": "우엉",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "201",
+      "name": "호두",
+      "category1": "9",
+      "category2": "1"
+    },
+    {
+      "num": "202",
+      "name": "홍피망, 청피망 각각",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "203",
+      "name": "허브(민트)",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "204",
+      "name": "정제수(생수)",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "205",
+      "name": "검은깨",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "206",
+      "name": "얼음",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "207",
+      "name": "녹색피망",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "208",
+      "name": "곤약",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "209",
+      "name": "칼국수면",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "210",
+      "name": "칵테일새우",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "211",
+      "name": "아몬드",
+      "category1": "9",
+      "category2": "1"
+    },
+    {
+      "num": "212",
+      "name": "소금, 후추",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "213",
+      "name": "청정원순창쌈장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "214",
+      "name": "다진파",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "215",
+      "name": "그라나 빠다노",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "216",
+      "name": "쌀가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "217",
+      "name": "녹차분말",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "218",
+      "name": "무지개고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "219",
+      "name": "근대잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "220",
+      "name": "참깨",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "221",
+      "name": "애호박(속살)",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "222",
+      "name": "청포묵",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "223",
+      "name": "멥쌀",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "224",
+      "name": "소고기",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "225",
+      "name": "콘플레이크",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "226",
+      "name": "콩가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "227",
+      "name": "들깨가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "228",
+      "name": "고추가루",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "229",
+      "name": "크림수프",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "230",
+      "name": "매실액",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "231",
+      "name": "모닝빵",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "232",
+      "name": "자몽",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "233",
+      "name": "다짐육(소고기)",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "234",
+      "name": "청고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "235",
+      "name": "머드터드",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "236",
+      "name": "참치",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "237",
+      "name": "버터",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "238",
+      "name": "버섯",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "239",
+      "name": "황파프리카",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "240",
+      "name": "페투치네",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "241",
+      "name": "장어뼈",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "242",
+      "name": "메주",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "243",
+      "name": "절임무",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "244",
+      "name": "포도씨유",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "245",
+      "name": "기름",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "246",
+      "name": "포도",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "247",
+      "name": "풋고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "248",
+      "name": "돼지고기",
+      "category1": "6",
+      "category2": "2"
+    },
+    {
+      "num": "249",
+      "name": "차조",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "250",
+      "name": "토마토",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "251",
+      "name": "송이버섯",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "252",
+      "name": "삶은 문어살",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "253",
+      "name": "게맛살",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "254",
+      "name": "[육수] 시판용장국",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "255",
+      "name": "고등어",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "256",
+      "name": "굵은고춧가루",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "257",
+      "name": "말린표고버섯",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "258",
+      "name": "생수 반컵",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "259",
+      "name": "찬밥",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "260",
+      "name": "청동호박",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "261",
+      "name": "후루츠칵테일",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "262",
+      "name": "[쇠고기양념] 다진파",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "263",
+      "name": "박고지",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "264",
+      "name": "장식용어묵",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "265",
+      "name": "당근즙",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "266",
+      "name": "꽈리고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "267",
+      "name": "스파게티",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "268",
+      "name": "고구마잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "269",
+      "name": "전복",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "270",
+      "name": "방울토마토",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "271",
+      "name": "호박잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "272",
+      "name": "문어",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "273",
+      "name": "인절미",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "274",
+      "name": "다진마늘",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "275",
+      "name": "엿기름",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "276",
+      "name": "전어젓갈",
+      "category1": "7",
+      "category2": "5"
+    },
+    {
+      "num": "277",
+      "name": "통마늘",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "278",
+      "name": "사이다",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "279",
+      "name": "브로코리 ",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "280",
+      "name": "까나리액젓",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "281",
+      "name": "다진청고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "282",
+      "name": "굴",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "283",
+      "name": "달걀 ",
+      "category1": "3",
+      "category2": "1"
+    },
+    {
+      "num": "284",
+      "name": "곱창",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "285",
+      "name": "대구살",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "286",
+      "name": "무순",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "287",
+      "name": "육수용멸치",
+      "category1": "4",
+      "category2": "4"
+    },
+    {
+      "num": "288",
+      "name": "닭가슴살",
+      "category1": "5",
+      "category2": "1"
+    },
+    {
+      "num": "289",
+      "name": "머스터드",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "290",
+      "name": "흰후추",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "291",
+      "name": "햄",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "292",
+      "name": "쌈장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "293",
+      "name": "조림간장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "294",
+      "name": "식용유/소금/참기름/잣가루",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "295",
+      "name": "떡국떡",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "296",
+      "name": "[절임용 소금물] 물",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "297",
+      "name": "명란",
+      "category1": "7",
+      "category2": "5"
+    },
+    {
+      "num": "298",
+      "name": "연어살",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "299",
+      "name": "[절임용 소금물] 소금",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "300",
+      "name": "양",
+      "category1": "6",
+      "category2": "3"
+    },
+    {
+      "num": "301",
+      "name": "오이피클",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "302",
+      "name": "[국물용 소금물] 소금",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "303",
+      "name": "감자",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "304",
+      "name": "메주콩",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "305",
+      "name": "파스타",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "306",
+      "name": "중국부추",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "307",
+      "name": "브로코리",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "308",
+      "name": "노각",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "309",
+      "name": "떡",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "310",
+      "name": "순창콩된장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "311",
+      "name": "그린올리브",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "312",
+      "name": "사골",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "313",
+      "name": "숙주나물",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "314",
+      "name": "깨소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "315",
+      "name": "흰살 생선",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "316",
+      "name": "돈까스소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "317",
+      "name": "굴소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "318",
+      "name": "케첩",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "319",
+      "name": "레몬주스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "320",
+      "name": "완두콩통조림",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "321",
+      "name": "양송이",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "322",
+      "name": "계란후라이",
+      "category1": "3",
+      "category2": "1"
+    },
+    {
+      "num": "323",
+      "name": "꽃게",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "324",
+      "name": "수삼",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "325",
+      "name": "마른오징어",
+      "category1": "4",
+      "category2": "4"
+    },
+    {
+      "num": "326",
+      "name": "게살",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "327",
+      "name": "굵은소금·후춧가루",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "328",
+      "name": "고사리",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "329",
+      "name": "마늘",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "330",
+      "name": "양념",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "331",
+      "name": "오이",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "332",
+      "name": "사과",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "333",
+      "name": "모짜렐라치즈",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "334",
+      "name": "곶감",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "335",
+      "name": "미원",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "336",
+      "name": "채소",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "337",
+      "name": "참쌀",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "338",
+      "name": "양배추잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "339",
+      "name": "해삼",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "340",
+      "name": "식초",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "341",
+      "name": "조갯살",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "342",
+      "name": "가지",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "343",
+      "name": "양지머리",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "344",
+      "name": "부침유",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "345",
+      "name": "와사비소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "346",
+      "name": "연어",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "347",
+      "name": "꽃상추",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "348",
+      "name": "토란탕",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "349",
+      "name": "쇠고기",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "350",
+      "name": "녹두",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "351",
+      "name": "들깻가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "352",
+      "name": "흰콩",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "353",
+      "name": "소금",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "354",
+      "name": "월계수잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "355",
+      "name": "녹말가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "356",
+      "name": "무명실",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "357",
+      "name": "소급",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "358",
+      "name": "콩나물",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "359",
+      "name": "오보로",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "360",
+      "name": "맛간장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "361",
+      "name": "고춧기름",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "362",
+      "name": "파마산치즈치즈",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "363",
+      "name": "아욱",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "364",
+      "name": "청주",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "365",
+      "name": "감동젓",
+      "category1": "7",
+      "category2": "5"
+    },
+    {
+      "num": "366",
+      "name": "삶은팥",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "367",
+      "name": "토란",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "368",
+      "name": "[배합초] 소금",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "369",
+      "name": "둥근호박",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "370",
+      "name": "찹쌀",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "371",
+      "name": "골뱅이통조림",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "372",
+      "name": "오레가노",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "373",
+      "name": "새우젓국",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "374",
+      "name": "겨자잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "375",
+      "name": "콩비지",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "376",
+      "name": "바지락",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "377",
+      "name": "해초",
+      "category1": "4",
+      "category2": "3"
+    },
+    {
+      "num": "378",
+      "name": "[불고기양념] 간장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "379",
+      "name": "들깨",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "380",
+      "name": "연근",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "381",
+      "name": "프랑크소시지",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "382",
+      "name": "맛조개",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "383",
+      "name": "상추잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "384",
+      "name": "파래",
+      "category1": "4",
+      "category2": "3"
+    },
+    {
+      "num": "385",
+      "name": "전분",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "386",
+      "name": "풋배추",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "387",
+      "name": "숙주",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "388",
+      "name": "날콩가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "389",
+      "name": "무,래디쉬",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "390",
+      "name": "이태리고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "391",
+      "name": "술",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "392",
+      "name": "다진 마늘",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "393",
+      "name": "조청",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "394",
+      "name": "마른고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "395",
+      "name": "총각무",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "396",
+      "name": "전어",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "397",
+      "name": "치즈",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "398",
+      "name": "진밥(멥쌀+찹쌀)",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "399",
+      "name": "모시조개",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "400",
+      "name": "월계수 잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "401",
+      "name": "맛살",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "402",
+      "name": "새싹채소",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "403",
+      "name": "숯",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "404",
+      "name": "도라지",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "405",
+      "name": "네모난햄",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "406",
+      "name": "당근",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "407",
+      "name": "달래",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "408",
+      "name": "타바스코",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "409",
+      "name": "청양고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "410",
+      "name": "양념간장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "411",
+      "name": "드라이이스트",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "412",
+      "name": "밀가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "413",
+      "name": "고춧가루",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "414",
+      "name": "김",
+      "category1": "4",
+      "category2": "3"
+    },
+    {
+      "num": "415",
+      "name": "육수용 대파",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "416",
+      "name": "가쓰오브시국물",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "417",
+      "name": "멸칫국물",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "418",
+      "name": "쇠고기(안심 또는 등심)",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "419",
+      "name": "통계피",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "420",
+      "name": "과일통조림",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "421",
+      "name": "양배추",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "422",
+      "name": "닭고기",
+      "category1": "5",
+      "category2": "1"
+    },
+    {
+      "num": "423",
+      "name": "간마늘",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "424",
+      "name": "중새우살",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "425",
+      "name": "강력분",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "426",
+      "name": "물(쇠고기육수)",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "427",
+      "name": "메기",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "428",
+      "name": "동태살",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "429",
+      "name": "대하",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "430",
+      "name": "고운고춧가루",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "431",
+      "name": "멸치액젓",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "432",
+      "name": "은행",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "433",
+      "name": "청국장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "434",
+      "name": "물엿",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "435",
+      "name": "와사비",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "436",
+      "name": "흰후춧가루",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "437",
+      "name": "국수",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "438",
+      "name": "김칫잎",
+      "category1": "7",
+      "category2": "4"
+    },
+    {
+      "num": "439",
+      "name": "재첩",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "440",
+      "name": "다진생강",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "441",
+      "name": "샐러드채소",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "442",
+      "name": "우유",
+      "category1": "2",
+      "category2": "1"
+    },
+    {
+      "num": "443",
+      "name": "깨",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "444",
+      "name": "생새우",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "445",
+      "name": "이태리파슬리",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "446",
+      "name": "참치캔",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "447",
+      "name": "셀러리",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "448",
+      "name": "건포도",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "449",
+      "name": "라면",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "450",
+      "name": "잔멸치",
+      "category1": "4",
+      "category2": "4"
+    },
+    {
+      "num": "451",
+      "name": "돼기고기",
+      "category1": "6",
+      "category2": "2"
+    },
+    {
+      "num": "452",
+      "name": "소면",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "453",
+      "name": "샐러드오일",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "454",
+      "name": "배추잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "455",
+      "name": "유부",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "456",
+      "name": "[멸치장국] 국멸치",
+      "category1": "4",
+      "category2": "4"
+    },
+    {
+      "num": "457",
+      "name": "잔새우",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "458",
+      "name": "마늘종",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "459",
+      "name": "핫소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "460",
+      "name": "대구",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "461",
+      "name": "굵은소금",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "462",
+      "name": "다진생각",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "463",
+      "name": "청정원국선생",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "464",
+      "name": "미니파프리카",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "465",
+      "name": "소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "466",
+      "name": "생크림",
+      "category1": "2",
+      "category2": "1"
+    },
+    {
+      "num": "467",
+      "name": "간수",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "468",
+      "name": "대추",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "469",
+      "name": "도토리묵",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "470",
+      "name": "국물용멸치",
+      "category1": "4",
+      "category2": "4"
+    },
+    {
+      "num": "471",
+      "name": "정수물(쇠고기육수)",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "472",
+      "name": "돼지고기안심",
+      "category1": "6",
+      "category2": "2"
+    },
+    {
+      "num": "473",
+      "name": "김칫국물",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "474",
+      "name": "계핏가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "475",
+      "name": "트레비소",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "476",
+      "name": "당면",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "477",
+      "name": "토마토소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "478",
+      "name": "소 잡뼈",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "479",
+      "name": "파마산치즈가루",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "480",
+      "name": "부침가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "481",
+      "name": "다짐육(돼지고기)",
+      "category1": "6",
+      "category2": "2"
+    },
+    {
+      "num": "482",
+      "name": "청피망",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "483",
+      "name": "더덕",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "484",
+      "name": "취나물",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "485",
+      "name": "우무",
+      "category1": "4",
+      "category2": "3"
+    },
+    {
+      "num": "486",
+      "name": "우묵",
+      "category1": "4",
+      "category2": "3"
+    },
+    {
+      "num": "487",
+      "name": "낙지다리",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "488",
+      "name": "조미술",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "489",
+      "name": "발효초",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "490",
+      "name": "가재새우",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "491",
+      "name": "미더덕",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "492",
+      "name": "피클",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "493",
+      "name": "다진양파",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "494",
+      "name": "굵은파",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "495",
+      "name": "오렌지",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "496",
+      "name": "케이퍼",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "497",
+      "name": "싸리버섯",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "498",
+      "name": "비엔나소시지",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "499",
+      "name": "장조림",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "500",
+      "name": "장어",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "501",
+      "name": "국물용 다시마",
+      "category1": "4",
+      "category2": "3"
+    },
+    {
+      "num": "502",
+      "name": "생수 또는 분유물(모유)",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "503",
+      "name": "안심",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "504",
+      "name": "코다리",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "505",
+      "name": "라이스페이퍼",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "506",
+      "name": "감자전분",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "507",
+      "name": "생강",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "508",
+      "name": "미소된장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "509",
+      "name": "달걀",
+      "category1": "3",
+      "category2": "1"
+    },
+    {
+      "num": "510",
+      "name": "찹쌀가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "511",
+      "name": "오곡곡물",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "512",
+      "name": "액젓",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "513",
+      "name": "노란 파프리카",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "514",
+      "name": "맛살조개",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "515",
+      "name": "고추냉이",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "516",
+      "name": "적파프리카",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "517",
+      "name": "볶은 흑임자(검은깨)",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "518",
+      "name": "땅콩",
+      "category1": "9",
+      "category2": "1"
+    },
+    {
+      "num": "519",
+      "name": "찐옥수수 알갱이",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "520",
+      "name": "얼음물",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "521",
+      "name": "우스터소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "522",
+      "name": "꽃소금",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "523",
+      "name": "광어",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "524",
+      "name": "시금치즙",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "525",
+      "name": "멸치다시물",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "526",
+      "name": "배추김치",
+      "category1": "7",
+      "category2": "4"
+    },
+    {
+      "num": "527",
+      "name": "슬라이스치즈",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "528",
+      "name": "닭발",
+      "category1": "5",
+      "category2": "1"
+    },
+    {
+      "num": "529",
+      "name": "칼국수",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "530",
+      "name": "구운김",
+      "category1": "4",
+      "category2": "3"
+    },
+    {
+      "num": "531",
+      "name": "냉면",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "532",
+      "name": "타임",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "533",
+      "name": "다진파슬리",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "534",
+      "name": "생대구",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "535",
+      "name": "쌀뜨물",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "536",
+      "name": "다시마",
+      "category1": "4",
+      "category2": "3"
+    },
+    {
+      "num": "537",
+      "name": "토마토페스트",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "538",
+      "name": "돼지등갈비",
+      "category1": "6",
+      "category2": "2"
+    },
+    {
+      "num": "539",
+      "name": "불린 쌀",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "540",
+      "name": "들깻잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "541",
+      "name": "닭",
+      "category1": "5",
+      "category2": "1"
+    },
+    {
+      "num": "542",
+      "name": "새우",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "543",
+      "name": "허니머스타드",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "544",
+      "name": "쇠고기 육수",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "545",
+      "name": "비트 간 것",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "546",
+      "name": "멸치",
+      "category1": "4",
+      "category2": "4"
+    },
+    {
+      "num": "547",
+      "name": "연어알",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "548",
+      "name": "진밥",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "549",
+      "name": "초생강",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "550",
+      "name": "샐러리",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "551",
+      "name": "키위",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "552",
+      "name": "우유 적당량",
+      "category1": "2",
+      "category2": "1"
+    },
+    {
+      "num": "553",
+      "name": "튀김가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "554",
+      "name": "붉은갓",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "555",
+      "name": "흰살생선",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "556",
+      "name": "생밤",
+      "category1": "9",
+      "category2": "1"
+    },
+    {
+      "num": "557",
+      "name": "쌀",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "558",
+      "name": "가다랑이포",
+      "category1": "4",
+      "category2": "4"
+    },
+    {
+      "num": "559",
+      "name": "햇살담은간장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "560",
+      "name": "표고버섯",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "561",
+      "name": "계란흰자",
+      "category1": "3",
+      "category2": "1"
+    },
+    {
+      "num": "562",
+      "name": "열무김치",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "563",
+      "name": "정종",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "564",
+      "name": "팥삶은물",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "565",
+      "name": "[쇠고기양념] 간장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "566",
+      "name": "명란젓",
+      "category1": "7",
+      "category2": "5"
+    },
+    {
+      "num": "567",
+      "name": "매실장아찌",
+      "category1": "7",
+      "category2": "5"
+    },
+    {
+      "num": "568",
+      "name": "파",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "569",
+      "name": "쇠꼬리",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "570",
+      "name": "쇠고기육수",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "571",
+      "name": "청정원어장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "572",
+      "name": "육수",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "573",
+      "name": "저민마늘",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "574",
+      "name": "스위트마조람",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "575",
+      "name": "붉은 고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "576",
+      "name": "머스타드",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "577",
+      "name": "견과류",
+      "category1": "9",
+      "category2": "1"
+    },
+    {
+      "num": "578",
+      "name": "파마르산치즈",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "579",
+      "name": "액체육젓",
+      "category1": "7",
+      "category2": "5"
+    },
+    {
+      "num": "580",
+      "name": "쌈다시마",
+      "category1": "4",
+      "category2": "3"
+    },
+    {
+      "num": "581",
+      "name": "수수",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "582",
+      "name": "컬리플라워",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "583",
+      "name": "청정원굴소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "584",
+      "name": "백오이",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "585",
+      "name": "바베큐소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "586",
+      "name": "검은껍질홍합",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "587",
+      "name": "된장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "588",
+      "name": "식빵",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "589",
+      "name": "사과즙",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "590",
+      "name": "파슬리가루",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "591",
+      "name": "꽁치",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "592",
+      "name": "두릅",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "593",
+      "name": "냉동만두",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "594",
+      "name": "연겨자",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "595",
+      "name": "팥",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "596",
+      "name": "두부",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "597",
+      "name": "생강즙",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "598",
+      "name": "계란",
+      "category1": "3",
+      "category2": "1"
+    },
+    {
+      "num": "599",
+      "name": "갈비",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "600",
+      "name": "땅콩가루",
+      "category1": "9",
+      "category2": "1"
+    },
+    {
+      "num": "601",
+      "name": "얼갈이배추",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "602",
+      "name": "보리",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "603",
+      "name": "다진쪽파",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "604",
+      "name": "후춧가루",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "605",
+      "name": "다진대파",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "606",
+      "name": "무",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "607",
+      "name": "도가니",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "608",
+      "name": "영양부추",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "609",
+      "name": "물",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "610",
+      "name": "다진돼지고기",
+      "category1": "6",
+      "category2": "2"
+    },
+    {
+      "num": "611",
+      "name": "튀김기름",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "612",
+      "name": "간생강",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "613",
+      "name": "봄동",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "614",
+      "name": "단무지",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "615",
+      "name": "조미료",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "616",
+      "name": "갈치",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "617",
+      "name": "고운소금",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "618",
+      "name": "통깨",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "619",
+      "name": "후추",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "620",
+      "name": "김밥용김",
+      "category1": "4",
+      "category2": "3"
+    },
+    {
+      "num": "621",
+      "name": "레몬드레싱",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "622",
+      "name": "채썬생강",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "623",
+      "name": "잉어",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "624",
+      "name": "폰즈소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "625",
+      "name": "칠리",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "626",
+      "name": "돼지갈비",
+      "category1": "6",
+      "category2": "2"
+    },
+    {
+      "num": "627",
+      "name": "양념장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "628",
+      "name": "카레가루",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "629",
+      "name": "녹말",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "630",
+      "name": "체리",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "631",
+      "name": "계란노른자",
+      "category1": "3",
+      "category2": "1"
+    },
+    {
+      "num": "632",
+      "name": "황설탕",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "633",
+      "name": "만두피",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "634",
+      "name": "콩",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "635",
+      "name": "에멘탈 치즈가루",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "636",
+      "name": "앤다이브",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "637",
+      "name": "우동면",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "638",
+      "name": "고들빼기",
+      "category1": "7",
+      "category2": "4"
+    },
+    {
+      "num": "639",
+      "name": "달걀노른자",
+      "category1": "3",
+      "category2": "1"
+    },
+    {
+      "num": "640",
+      "name": "다진식파",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "641",
+      "name": "닭살",
+      "category1": "5",
+      "category2": "1"
+    },
+    {
+      "num": "642",
+      "name": "올리브유",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "643",
+      "name": "배추",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "644",
+      "name": "다시물",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "645",
+      "name": "슈레드 치즈(모짜렐라치즈)",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "646",
+      "name": "팔각",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "647",
+      "name": "땅콩버터",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "648",
+      "name": "배즙",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "649",
+      "name": "당근잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "650",
+      "name": "홍차티백",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "651",
+      "name": "단호박",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "652",
+      "name": "말린새우",
+      "category1": "4",
+      "category2": "4"
+    },
+    {
+      "num": "653",
+      "name": "도라지나물",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "654",
+      "name": "청경채",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "655",
+      "name": "소금약간",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "656",
+      "name": "양파",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "657",
+      "name": "들기름",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "658",
+      "name": "시래기",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "659",
+      "name": "생태",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "660",
+      "name": "고사리나물",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "661",
+      "name": "꽃빵",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "662",
+      "name": "무채",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "663",
+      "name": "목이버섯",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "664",
+      "name": "돼지 볼살",
+      "category1": "6",
+      "category2": "2"
+    },
+    {
+      "num": "665",
+      "name": "다짐육",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "666",
+      "name": "조개살",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "667",
+      "name": "육회",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "668",
+      "name": "가래떡",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "669",
+      "name": "슈가파우더",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "670",
+      "name": "모듬채소",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "671",
+      "name": "쭈꾸미",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "672",
+      "name": "녹차국수",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "673",
+      "name": "고기산적",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "674",
+      "name": "청정원맛선생",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "675",
+      "name": "대파 대",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "676",
+      "name": "라임",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "677",
+      "name": "양파즙",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "678",
+      "name": "젓국",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "679",
+      "name": "잣",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "680",
+      "name": "트레비스",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "681",
+      "name": "토마토페이스트",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "682",
+      "name": "삭힌고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "683",
+      "name": "랩",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "684",
+      "name": "닭봉",
+      "category1": "5",
+      "category2": "1"
+    },
+    {
+      "num": "685",
+      "name": "[절임간장] 진간장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "686",
+      "name": "겨자가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "687",
+      "name": "해파리",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "688",
+      "name": "석이버섯",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "689",
+      "name": "국멸치",
+      "category1": "4",
+      "category2": "4"
+    },
+    {
+      "num": "690",
+      "name": "맛술",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "691",
+      "name": "훈제연어",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "692",
+      "name": "레몬",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "693",
+      "name": "[절임용소금물] 소금",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "694",
+      "name": "다진홍고추",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "695",
+      "name": "꽁치통조림",
+      "category1": "7",
+      "category2": "2"
+    },
+    {
+      "num": "696",
+      "name": "쌀국수",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "697",
+      "name": "[양념장] 고춧가루",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "698",
+      "name": "파슬리",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "699",
+      "name": "토마토케첩",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "700",
+      "name": "노랑/빨강 파프리카",
+      "category1": "1",
+      "category2": "3"
+    },
+    {
+      "num": "701",
+      "name": "마요네스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "702",
+      "name": "식용유",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "703",
+      "name": "꿀",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "704",
+      "name": "깐밤",
+      "category1": "9",
+      "category2": "1"
+    },
+    {
+      "num": "705",
+      "name": "말린 표고버섯",
+      "category1": "1",
+      "category2": "5"
+    },
+    {
+      "num": "706",
+      "name": "양겨자",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "707",
+      "name": "은박컵",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "708",
+      "name": "체리알",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "709",
+      "name": "맛소금",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "710",
+      "name": "육수 및 생수",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "711",
+      "name": "배주머니",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "712",
+      "name": "페스토소스",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "713",
+      "name": "참소라살",
+      "category1": "4",
+      "category2": "2"
+    },
+    {
+      "num": "714",
+      "name": "치즈가루",
+      "category1": "2",
+      "category2": "2"
+    },
+    {
+      "num": "715",
+      "name": "사우어크라우트",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "716",
+      "name": "춘권피",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "717",
+      "name": "고추장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "718",
+      "name": "누룽지",
+      "category1": "7",
+      "category2": "3"
+    },
+    {
+      "num": "719",
+      "name": "열무",
+      "category1": "1",
+      "category2": "4"
+    },
+    {
+      "num": "720",
+      "name": "조기",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "721",
+      "name": "냉이",
+      "category1": "1",
+      "category2": "6"
+    },
+    {
+      "num": "722",
+      "name": "시금치",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "723",
+      "name": "생선살",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "724",
+      "name": "꼴뚜기",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "725",
+      "name": "통북어",
+      "category1": "4",
+      "category2": "1"
+    },
+    {
+      "num": "726",
+      "name": "쇠고기스톡",
+      "category1": "6",
+      "category2": "1"
+    },
+    {
+      "num": "727",
+      "name": "불린 흑미",
+      "category1": "9",
+      "category2": "2"
+    },
+    {
+      "num": "728",
+      "name": "멸치젓",
+      "category1": "7",
+      "category2": "5"
+    },
+    {
+      "num": "729",
+      "name": "식물성기름",
+      "category1": "8",
+      "category2": "5"
+    },
+    {
+      "num": "730",
+      "name": "블랙올리브",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "731",
+      "name": "허브솔트",
+      "category1": "8",
+      "category2": "4"
+    },
+    {
+      "num": "732",
+      "name": "적양배추잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "733",
+      "name": "통파",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "734",
+      "name": "진간장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "735",
+      "name": "딸기",
+      "category1": "1",
+      "category2": "1"
+    },
+    {
+      "num": "736",
+      "name": "산초가루",
+      "category1": "9",
+      "category2": "3"
+    },
+    {
+      "num": "737",
+      "name": "초콜릿",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "738",
+      "name": "올리브",
+      "category1": "7",
+      "category2": "1"
+    },
+    {
+      "num": "739",
+      "name": "시금치나물",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "740",
+      "name": "[초고추장] 고추장",
+      "category1": "8",
+      "category2": "3"
+    },
+    {
+      "num": "741",
+      "name": "쪽파",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "742",
+      "name": "고수잎",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "743",
+      "name": "[양념장] 다진파",
+      "category1": "1",
+      "category2": "2"
+    },
+    {
+      "num": "744",
+      "name": "다시마국물",
+      "category1": "8",
+      "category2": "1"
+    },
+    {
+      "num": "745",
+      "name": "겨자",
+      "category1": "8",
+      "category2": "2"
+    },
+    {
+      "num": "746",
+      "name": "스위트콘",
+      "category1": "7",
+      "category2": "2"
+    }
+  ]
+}

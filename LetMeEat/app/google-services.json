@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893555333449",
+    "firebase_url": "https://decent-digit-215303.firebaseio.com",
+    "project_id": "decent-digit-215303",
+    "storage_bucket": "decent-digit-215303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893555333449:android:a7b7d2634f15ac99",
+        "android_client_info": {
+          "package_name": "com.letmeeat.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893555333449-aqqlkoesft5grhrpfpc043uteqt1s4n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpw4-wArPbVUes9qnHxqQtt-aEdsohkfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893555333449-aqqlkoesft5grhrpfpc043uteqt1s4n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

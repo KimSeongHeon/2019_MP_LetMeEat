@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.letmeeat.project">
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.READ_PROFILE"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+
+    <uses-feature android:name="android.hardware.camera"/>
+
+    <application
+            android:name="com.letmeeat.project.GlobalApplication"
+            android:allowBackup="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="렛미잇"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:usesCleartextTraffic="true">
+        <activity android:name="com.letmeeat.project.MyFavoriteActivity">
+        </activity>
+        <activity android:name="com.letmeeat.project.LoadingActivity">
+        </activity>
+        <activity android:name="com.letmeeat.project.ShowProductActivity">
+        </activity>
+        <activity android:name="com.letmeeat.project.TestActivity">
+        </activity>
+        <activity android:name="com.letmeeat.project.UserinfoActivity">
+        </activity>
+
+        <meta-data
+                android:name="com.kakao.sdk.AppKey"
+                android:value="@string/kakao_app_key"/>
+
+        <activity
+                android:name="com.letmeeat.project.BuyIngreActivity"
+                android:theme="@android:style/Theme.Dialog">
+        </activity>
+        <activity
+                android:name="com.letmeeat.project.AddBasket2Activity"
+                android:theme="@android:style/Theme.Dialog">
+        </activity>
+        <activity
+                android:name="com.letmeeat.project.SelectShopActivity"
+                android:theme="@android:style/Theme.Dialog">
+        </activity>
+        <activity android:name="com.letmeeat.project.ShowRecipeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data
+                        android:host="@string/kakaolink_host"
+                        android:scheme="@string/kakao_scheme"/>
+            </intent-filter>
+        </activity>
+        <activity
+                android:name="com.letmeeat.project.AddBasketActivity"
+                android:theme="@android:style/Theme.Dialog">
+        </activity>
+        <activity
+                android:name="com.letmeeat.project.unused_AddIngreActivity"
+                android:theme="@android:style/Theme.Dialog">
+        </activity>
+        <activity
+                android:name="com.letmeeat.project.LoginActivity"
+                android:label="렛미잇"
+                android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+                android:name="com.letmeeat.project.registerActivity"
+                android:theme="@android:style/Theme.Dialog"
+                android:windowSoftInputMode="adjustResize">
+        </activity>
+        <activity android:name="com.letmeeat.project.MainActivity">
+        </activity>
+        <activity android:name="com.letmeeat.project.CustomScannerActivity">
+        </activity>
+
+        <meta-data
+                android:name="com.naver.maps.map.CLIENT_ID"
+                android:value="709jpo5og9"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:background="#eeeeee"
+              android:orientation="vertical"
+              android:layout_width="300dp"
+              android:layout_height="500dp">
+
+    <!-- 타이틀바 -->
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+        <TextView
+                android:text="냉장고로 이동"
+                android:textSize="20sp"
+                android:textColor="#fff"
+                android:gravity="center"
+                android:background="#FFB2B2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+    </LinearLayout>
+    <!-- //end 타이틀바 -->
+
+    <!-- 내용 -->
+    <LinearLayout
+            android:padding="24dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5">
+        <TextView
+                android:text="재료명"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        <TextView
+                android:id="@+id/ingrename"
+                android:gravity="center"
+                android:layout_width="184dp"
+                android:layout_height="wrap_content" android:textSize="20sp"
+                android:textColor="@color/common_google_signin_btn_text_dark_focused"/>
+        <TextView
+                android:text="재료 유통기한"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        <DatePicker
+                android:id="@+id/datepicker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:calendarViewShown="false"
+        />
+    </LinearLayout>
+    <!-- 내용 -->
+
+    <View
+            android:background="#66bdbdbd"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+
+    <!-- 닫기 버튼 -->
+    <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+        <Button
+                android:text="확인"
+                android:textSize="15sp"
+                android:textColor="#FFB2B2"
+                android:padding="16dp"
+                android:gravity="center"
+                android:background="#00000000"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="53dp"
+                android:id="@+id/registerButton1"/>
+        <Button
+                android:text="닫기"
+                android:textSize="15sp"
+                android:textColor="#FFB2B2"
+                android:padding="16dp"
+                android:gravity="center"
+                android:background="#00000000"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="53dp"
+                android:id="@+id/registerButton2"/>
+    </LinearLayout>
+    <!--// 닫기 버튼 -->
+</LinearLayout>
+
+

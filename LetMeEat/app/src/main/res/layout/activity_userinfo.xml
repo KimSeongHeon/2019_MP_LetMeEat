@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical"
+              xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView
+                android:id="@+id/tname" android:layout_marginTop="5dp"
+                android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center"
+                android:text="이름" android:textSize="20dp" android:textStyle="bold" android:layout_marginBottom="10dp"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                  android:text="선택 리스트" android:gravity="center"
+                  android:textColor="#FFFFFF" android:textSize="16dp"
+                  android:layout_marginLeft="5dp" android:layout_marginRight="5dp"
+                  android:background="#FFB2B2"/>
+        <GridLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="horizontal"
+                    android:layout_gravity="fill"
+                    android:rowCount="4"
+                    android:columnCount="3"
+                    android:alignmentMode="alignBounds"
+        android:id="@+id/disgust_grid">
+
+        </GridLayout>
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                  android:text="먹을 수 없는 음식을 선택하세요" android:gravity="center"
+                  android:textColor="#FFFFFF" android:textSize="16dp"
+                  android:layout_marginLeft="5dp" android:layout_marginRight="5dp"
+                  android:background="#FFB2B2"/>
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+            <ScrollView android:layout_width="0dp" android:layout_height="match_parent"
+                        android:layout_weight="0.7">
+                <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent"
+                              android:layout_weight="1"
+                              android:orientation="vertical"
+                              android:background="@drawable/customboarder"
+                              android:gravity="center">
+                    <ImageButton android:layout_width="50dp" android:layout_height="50dp"
+                                 android:id="@+id/veggie" android:src="@drawable/broccoli2"
+                                 android:scaleType="fitXY"
+                                 android:layout_gravity="center" android:backgroundTint="#00FFFFFF"
+                                 android:layout_marginTop="10dp" android:onClick="onBtnClick"
+                    />
+                    <ImageButton android:layout_width="50dp" android:layout_height="50dp"
+                                 android:id="@+id/milk" android:src="@drawable/milk2"
+                                 android:scaleType="fitXY"                             android:layout_gravity="center" android:backgroundTint="#00FFFFFF"
+                                 android:layout_marginTop="10dp" android:onClick="onBtnClick"/>
+                    <ImageButton android:layout_width="50dp" android:layout_height="50dp"
+                                 android:id="@+id/eggs" android:src="@drawable/egg2"
+                                 android:scaleType="fitXY"
+                                 android:layout_gravity="center" android:backgroundTint="#00FFFFFF"
+                                 android:layout_marginTop="10dp"  android:onClick="onBtnClick"/>
+                    <ImageButton android:layout_width="50dp" android:layout_height="50dp"
+                                 android:id="@+id/fish" android:src="@drawable/fish2"
+                                 android:scaleType="fitXY"                             android:layout_gravity="center" android:backgroundTint="#00FFFFFF"
+                                 android:layout_marginTop="10dp"  android:onClick="onBtnClick"/>
+                    <ImageButton android:layout_width="50dp" android:layout_height="50dp"
+                                 android:id="@+id/chicken" android:src="@drawable/turkey2"
+                                 android:scaleType="fitXY"                             android:layout_gravity="center" android:backgroundTint="#00FFFFFF"
+                                 android:layout_marginTop="10dp"  android:onClick="onBtnClick"/>
+                    <ImageButton android:layout_width="50dp" android:layout_height="50dp"
+                                 android:id="@+id/meat" android:src="@drawable/steak2"
+                                 android:scaleType="fitXY"                             android:layout_gravity="center" android:backgroundTint="#00FFFFFF"
+                                 android:layout_marginTop="10dp"  android:onClick="onBtnClick"/>
+                    <ImageButton android:layout_width="50dp" android:layout_height="50dp"
+                                 android:id="@+id/guitar" android:src="@drawable/guitar2"
+                                 android:scaleType="fitXY"                             android:layout_gravity="center" android:backgroundTint="#00FFFFFF"
+                                 android:layout_marginTop="10dp"  android:onClick="onBtnClick"/>
+                    <ImageButton android:layout_width="50dp" android:layout_height="50dp"
+                                 android:id="@+id/source" android:src="@drawable/spices2"
+                                 android:scaleType="fitXY"                             android:layout_gravity="center" android:backgroundTint="#00FFFFFF"
+                                 android:layout_marginTop="10dp"  android:onClick="onBtnClick"/>
+                    <ImageButton android:layout_width="50dp" android:layout_height="50dp"
+                                 android:id="@+id/meal" android:src="@drawable/grain2"
+                                 android:scaleType="fitXY"                             android:layout_gravity="center" android:backgroundTint="#00FFFFFF"
+                                 android:layout_marginTop="10dp"  android:onClick="onBtnClick"/>
+                </LinearLayout>
+            </ScrollView>
+            <LinearLayout android:layout_width="0dp"
+                          android:layout_height="match_parent"
+                          android:layout_weight="1"
+                          android:background="@drawable/customboarder"
+            >
+                <ListView android:layout_width="match_parent"
+                          android:layout_height="match_parent"
+                android:id="@+id/category_listview">
+                </ListView>
+
+            </LinearLayout>
+            <LinearLayout android:layout_width="0dp"
+                          android:layout_height="match_parent"
+                          android:layout_weight="1"
+                          android:background="@drawable/customboarder"
+            >
+                <ListView android:layout_width="match_parent"
+                          android:layout_height="match_parent"
+                          android:id="@+id/item_listview">
+
+                </ListView>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:id="@+id/save_button" android:text="저 장" android:layout_gravity="center"
+        />
+</LinearLayout>
+

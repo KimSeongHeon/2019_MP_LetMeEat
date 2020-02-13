@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:background="#eeeeee"
+              android:orientation="vertical"
+              android:layout_width="300dp"
+              android:layout_height="200dp">
+
+    <!-- 타이틀바 -->
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <TextView
+                android:id="@+id/oningre"
+                android:textSize="20sp"
+                android:textColor="#fff"
+                android:gravity="center"
+                android:background="#FFB2B2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <!-- //end 타이틀바 -->
+
+    <!-- 내용 -->
+    <GridLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:columnCount="3" android:layout_gravity="center" android:layout_marginBottom="20dp"
+                android:layout_marginTop="10dp"
+                android:fadingEdge="horizontal|vertical" android:useDefaultMargins="true"
+    >
+        <ImageButton
+                android:text="gmarket"
+                android:layout_width="70dp" android:layout_height="70dp"
+                android:id="@+id/gmarketBtn" android:scaleType="fitCenter"
+                android:onClick="OnBtnClick" android:src="@drawable/gmarkimg"
+        />
+        <ImageButton
+                android:text="market kurly" android:id="@+id/kurlyBtn"
+                android:layout_width="70dp" android:layout_height="70dp"
+                android:scaleType="fitCenter"
+                android:onClick="OnBtnClick" android:src="@drawable/kurlyimg"
+        />
+        <ImageButton
+                android:text="coupang"
+                android:layout_width="70dp" android:layout_height="70dp"
+                android:id="@+id/coupBtn" android:scaleType="fitCenter"
+                android:onClick="OnBtnClick" android:src="@drawable/coupimg"
+        />
+        <ImageButton
+                android:text="naver shopping"
+                android:layout_width="70dp" android:layout_height="70dp"
+                android:id="@+id/naveBtn" android:scaleType="fitCenter"
+                android:onClick="OnBtnClick" android:src="@drawable/naverimg"
+        />
+        <ImageButton
+                android:text="위메프"
+                android:layout_width="70dp" android:layout_height="70dp"
+                android:id="@+id/wemaBtn" android:scaleType="fitCenter"
+                android:onClick="OnBtnClick" android:src="@drawable/wemapimg"
+        />
+        <ImageButton
+                android:text="티몬"
+                android:layout_width="70dp" android:layout_height="70dp"
+                android:id="@+id/tmonBtn" android:scaleType="fitCenter"
+                android:onClick="OnBtnClick" android:src="@drawable/tmonimg"
+        />
+    </GridLayout>
+
+</LinearLayout>
+
+

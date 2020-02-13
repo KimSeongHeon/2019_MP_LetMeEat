@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent" xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="vertical">
+    <TabHost
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:id="@+id/tabhost1" android:visibility="visible"
+            android:background="#00E63939">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+            <FrameLayout android:layout_width="match_parent" android:layout_height="0dp"
+            android:layout_weight="1" android:id="@+id/widget_frame" android:clickable="true">
+            <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:visibility="visible" android:background="#FC5B50"/>
+
+            </FrameLayout>
+            <FrameLayout
+                    android:id="@android:id/tabcontent"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="10">
+                <android.support.v4.widget.DrawerLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/main_drawerLayout"
+                        tools:openDrawer="start">
+
+                    <LinearLayout
+                            android:id="@+id/content1"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                    >
+                        <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="0dp"
+                                android:layout_weight="1"
+                                android:orientation="horizontal">
+                            <ImageButton android:layout_width="0dp"
+                                         android:layout_height="match_parent"
+                                         android:id="@+id/user_info_button"
+                                         android:layout_weight="1"
+                                         android:background="#00000000" android:backgroundTint="#00000000"
+                                         app:srcCompat="@drawable/baseline_view_headline_black_24dp"
+
+                            />
+                            <TextView
+                                    android:id="@+id/who"
+                                    android:layout_width="0dp" android:layout_height="match_parent"
+                                    android:layout_weight="8"
+                                    android:gravity="center" android:textSize="18sp"
+                                    android:textStyle="bold" android:text="sj님의 냉장고"/>
+                        </LinearLayout>
+                        <FrameLayout android:layout_width="match_parent" android:layout_height="0dp"
+                                     android:layout_weight="11">
+                            <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                                      android:id="@+id/ref_empty_text" android:visibility="invisible" android:layout_gravity="center" android:gravity="center"
+                                      android:textStyle="bold"
+                            />                            <android.support.v7.widget.RecyclerView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/listV"/>
+                            <!--android:background="#E7E9F3"-->
+                            <ImageButton android:layout_width="wrap_content" android:layout_height="wrap_content"
+                                         app:srcCompat="@drawable/ic_add_circle_outline_black_24dp"
+                                         android:id="@+id/plusButton"
+                                         android:layout_gravity="bottom|right"
+                                         android:layout_marginTop="400dp"
+                                         android:background="#00000000" android:backgroundTint="#00000000"
+                                         android:layout_marginRight="10dp" android:layout_marginBottom="10dp"/>
+
+
+                            <ImageButton android:layout_width="wrap_content" android:layout_height="wrap_content"
+                                         app:srcCompat="@drawable/ic_remove_circle_outline_black_24dp"
+                                         android:id="@+id/minusButton"
+                                         android:layout_gravity="bottom|left"
+                                         android:layout_marginTop="400dp"
+                                         android:background="#00000000" android:backgroundTint="#00000000"
+                                         android:layout_marginLeft="10dp" android:layout_marginBottom="10dp"/>
+                        </FrameLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                            android:id="@+id/content2"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+                        <TextView
+                                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                                android:text="전체 추천 요리" android:id="@+id/rec_text"
+                                android:gravity="center_horizontal"
+                                android:layout_gravity="center" android:textSize="18sp"
+                                android:textStyle="bold" android:layout_marginTop="10dp"
+                                android:layout_marginBottom="5dp"/>
+                        <LinearLayout android:layout_width="match_parent"
+                                      android:layout_height="wrap_content"
+                                      android:orientation="horizontal" android:layout_marginRight="10dp">
+                            <Spinner android:layout_height="wrap_content"
+                                     android:layout_width="0dp"
+                                     android:id="@+id/spinnernation"
+                                     android:entries="@array/nation_array"
+                                     android:prompt="@string/nation_prompt"
+                                     android:spinnerMode="dropdown"
+                                     android:layout_weight="2.5"/>
+                            <Spinner android:layout_height="wrap_content"
+                                     android:layout_width="0dp"
+                                     android:id="@+id/spinnercook"
+                                     android:spinnerMode="dropdown"
+                                     android:layout_weight="3.3"/>
+                            <!--<TextView android:layout_width="0dp" android:layout_height="match_parent"-->
+                            <!--android:layout_weight="6"-->
+                            <!--android:text="추천 음식은 냉장고에 있는 재료에 맞게 추천됩니다." android:gravity="center"-->
+                            <!--android:textSize="15dp"/>-->
+                            <ImageButton android:layout_width="30dp" android:layout_height="30dp"
+                                         android:scaleType="fitXY" android:src="@drawable/refresh" android:background="#00000000"
+                                         android:id="@+id/renew_button" android:layout_gravity="center_vertical"/>
+                        </LinearLayout>
+                        <LinearLayout android:layout_width="match_parent"
+                                      android:layout_height="wrap_content">
+
+                        </LinearLayout>
+                        <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent"
+                        >
+                            <android.support.v7.widget.RecyclerView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/reList" android:layout_marginTop="20dp"/>
+                            <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                                      android:id="@+id/empty_text" android:visibility="invisible" android:layout_gravity="center" android:gravity="center"
+                                      android:textStyle="bold"
+                            />
+                            <ImageButton android:layout_width="60dp" android:layout_height="60dp"
+                                         app:srcCompat="@drawable/refrige2"
+                                         android:id="@+id/fridgeButton"
+                                         android:layout_gravity="right|bottom"
+                                         android:scaleType="fitXY" android:background="#00FFFFFF"
+                                         android:layout_marginRight="5dp" android:layout_marginBottom="5dp"
+                            />
+                        </FrameLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                            android:id="@+id/content3"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+                        <LinearLayout android:layout_width="match_parent" android:layout_height="50dp"
+                                      android:orientation="horizontal" android:layout_marginRight="10dp"
+                                      android:focusable="true"
+                                      android:focusableInTouchMode="true">
+                            <EditText android:layout_width="0dp" android:layout_height="match_parent"
+                                      android:layout_weight="5" android:hint="요리 검색"
+                                      android:id="@+id/search_recipe"/>
+                            <Spinner android:layout_height="wrap_content"
+                                     android:layout_width="0dp"
+                                     android:id="@+id/spinner"
+                                     android:entries="@array/recipe_array"
+                                     android:prompt="@string/recipe_prompt"
+                                     android:spinnerMode="dialog"
+                                     android:layout_weight="4"/>
+                            <ImageButton android:layout_width="30dp" android:layout_height="30dp"
+                                         android:scaleType="fitXY" android:src="@drawable/refresh" android:background="#00000000"
+                                         android:id="@+id/search_button" android:layout_gravity="center_vertical"/>
+                        </LinearLayout>
+
+                        <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                            <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                                      android:id="@+id/empty2_text" android:visibility="invisible" android:layout_gravity="center" android:gravity="center"
+                                      android:textStyle="bold"
+                            />
+                        <android.support.v7.widget.RecyclerView
+                                android:layout_height="match_parent"
+                                android:layout_width="match_parent"
+                                android:id="@+id/recipe_view"/>
+                        </FrameLayout>
+
+                    </LinearLayout>
+                    <LinearLayout
+                            android:id="@+id/content4"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+                        <LinearLayout android:layout_width="match_parent" android:layout_height="60dp"
+                                      android:orientation="horizontal" android:focusable="true"
+                                      android:focusableInTouchMode="true">
+                            <EditText android:layout_width="0dp" android:layout_height="match_parent"
+                                      android:layout_weight="3" android:hint="검색"
+                                      android:id="@+id/search_products"/>
+                            <Button android:layout_width="0dp" android:layout_height="wrap_content"
+                                    android:layout_weight="2"
+                                    android:text="전체 농산물" android:id="@+id/search_pro_button"
+                            android:background="#FFD7D7" android:layout_gravity="center_vertical"
+                                    android:layout_marginBottom="5dp" android:layout_marginTop="3dp"/>
+                            <Spinner android:layout_height="wrap_content"
+                                     android:layout_width="0dp"
+                                     android:id="@+id/spinner_pro"
+                                     android:entries="@array/product_array"
+                                     android:prompt="@string/product_prompt"
+                                     android:spinnerMode="dropdown"
+                                     android:layout_weight="5"/>
+                        </LinearLayout>
+                        <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                            <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                                      android:id="@+id/empty3_text" android:visibility="invisible" android:layout_gravity="center" android:gravity="center"
+                                      android:textStyle="bold"
+                            />
+                        <android.support.v7.widget.RecyclerView
+                                android:layout_height="match_parent"
+                                android:layout_width="match_parent"
+                                android:id="@+id/products_view"/>
+
+                        </FrameLayout>
+                    </LinearLayout>
+                    <LinearLayout
+                            android:id="@+id/content5"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+                        <include layout="@layout/shoppingtab"></include>
+                    </LinearLayout>
+                    <android.support.design.widget.NavigationView
+                            android:id="@+id/navigationView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="start"
+                            app:headerLayout="@layout/main_nav_header"
+                            app:menu="@menu/main_navigation_menu"
+                    />
+                </android.support.v4.widget.DrawerLayout>
+            </FrameLayout>
+
+        </LinearLayout>
+
+    </TabHost>
+
+</LinearLayout>

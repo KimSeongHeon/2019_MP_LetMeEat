@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <fragment android:layout_width="match_parent"
+              android:layout_height="0dp"
+              android:layout_weight="4"
+              android:id="@+id/map"
+              android:layout_marginTop="10dp" android:layout_marginLeft="5dp"
+              android:layout_marginRight="5dp"
+              android:name="com.naver.maps.map.MapFragment" />
+    <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="0dp" android:layout_weight="4"
+            android:id="@+id/shopListOff" android:layout_marginTop="15dp"
+            android:layout_marginBottom="20dp"/>
+    <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="0dp" android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp" >
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="match_parent"
+        android:orientation="vertical" android:layout_alignParentLeft="true" >
+            <ImageButton
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:scaleType="fitXY"
+                    android:id="@+id/subButton"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/cart3"
+                    />
+            <TextView android:layout_width="wrap_content" android:layout_height="20dp"
+                      android:text="삭제" android:layout_gravity="center_horizontal" android:textSize="12sp"/>
+        </LinearLayout>
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="match_parent"
+                      android:orientation="vertical" android:layout_alignParentTop="true"
+                      android:layout_centerInParent="true">
+            <ImageButton
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:scaleType="fitXY"
+                    android:id="@+id/addButton"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/cart"
+            />
+            <TextView android:layout_width="wrap_content"  android:layout_height="20dp"
+                      android:textSize="12sp"
+                      android:text="추가" android:layout_gravity="center_horizontal"/>
+        </LinearLayout>
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="match_parent"
+                      android:orientation="vertical"  android:layout_alignParentRight="true">
+            <ImageButton
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:scaleType="fitXY"
+                    android:id="@+id/buyBtn"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/cart4"
+            />
+            <TextView android:layout_width="wrap_content"  android:layout_height="20dp"
+                      android:textSize="12sp"
+                      android:text="구매완료" android:layout_gravity="center_horizontal"/>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>
+

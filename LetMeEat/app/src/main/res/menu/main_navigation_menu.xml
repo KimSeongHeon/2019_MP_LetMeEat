@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/account"
+                android:icon="@drawable/baseline_account_circle_black_24dp"
+                android:background="#00000000" android:backgroundTint="#00000000"
+                android:title="내 정보"
+        />
+        <item
+                android:id="@+id/star"
+                android:icon="@drawable/baseline_favorite_black_24dp"
+                android:background="#00000000" android:backgroundTint="#00000000"
+                android:title="좋아요 한 요리"
+        />
+
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/log_out"
+                android:icon="@drawable/baseline_exit_to_app_black_24dp"
+                android:background="#00000000" android:backgroundTint="#00000000"
+                android:title="로그아웃"
+        />
+
+    </group>
+</menu>
+
+
